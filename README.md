@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a small projects
 - 📫 How to reach me. You can reach me through my school email norbertoppalino@iskolarngbayan.edu.ph
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm a freshman taking up BS Computer Enineering in PUP
+- ⚡ Fun fact: I'm a freshman taking up BS Computer Enineering in PUP and I'm new to this environment 
 
 <!---
 dos1121/dos1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
